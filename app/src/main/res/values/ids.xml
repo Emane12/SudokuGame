@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="tableLayout" type="id" />
+    <item name="refresh" type="id" />
+    <item name="textView" type="id" />
+    <item name="check" type="id" />
+    <item name="linearLayout" type="id" />
+    <item name="solve" type="id" />
+</resources>
